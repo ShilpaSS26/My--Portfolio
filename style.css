@@ -40,6 +40,12 @@ nav ul li a {
   padding: 80px 20px;
 }
 
+/* Hero Section */
+#hero {
+  background: linear-gradient(135deg, #e3f2fd, #f9f9f9);
+  padding: 80px 20px;
+}
+
 .hero-container {
   display: flex;
   align-items: center;
@@ -114,6 +120,9 @@ nav ul li a {
   border: 5px solid #007bff;
   box-shadow: 0 6px 20px rgba(0,0,0,0.1);
 }
+
+
+
 
 
 /* Resume Section */
@@ -367,6 +376,7 @@ footer {
     width: 120px;
   }
 }
+
 
 
 
